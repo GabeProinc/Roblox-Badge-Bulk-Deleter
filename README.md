@@ -33,7 +33,10 @@ Use responsibly.
 ### Installation
 
 1. Download or clone this repository.
+2. Replace Values in .env to yours.
+3. Run the code, do not interfere with badges manually.
+4. May take some time, recommended to leave it alone for awhile based on the number of badges you have.
+5. Takes 2 seconds for 1 badge deletion, for rate limit reasons.
 
-```bash
-git clone YOUR_REPO_LINK
-cd YOUR_REPO_FOLDER
+
+For any questions or suggestions - Discord: @gabebomb
